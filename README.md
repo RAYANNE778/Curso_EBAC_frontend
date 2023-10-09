@@ -1,2 +1,4 @@
 # Curso_EBAC_frontend
- Exercicios EBAC
+ Exercícios EBAC
+
+ Primeiro repositório do curso
